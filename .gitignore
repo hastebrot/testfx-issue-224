@@ -1,0 +1,23 @@
+# gradle cache and build files.
+.gradle/
+build/
+
+# maven build files.
+target/
+
+# intellij project files.
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# eclipse project files.
+.classpath
+.project
+.settings/
+
+# mac files.
+.DS_Store
+
+# test screenshots.
+screenshot*.png
